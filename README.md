@@ -21,7 +21,7 @@
 
 ### About
 
-GENZOIC is a full-stack application that delivers live market data insights. The backend serves APIs to gather and process financial data, while the frontend visualizes real-time trends.
+GENZOIC is a full-stack application that delivers live market data insights. The backend serves APIs to gather and process financial data, while the frontend visualizes real-time trends. The Alpha Vantage API will not work you'll have to wait as I have exhausted the number of API hits for today.
 
 ### Features
 
